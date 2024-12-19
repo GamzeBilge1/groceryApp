@@ -1,0 +1,15 @@
+C:\Users\Gamze\source\repos\groceryApp\groceryApp\bin\Debug\net8.0\groceryApp.exe
+C:\Users\Gamze\source\repos\groceryApp\groceryApp\bin\Debug\net8.0\groceryApp.deps.json
+C:\Users\Gamze\source\repos\groceryApp\groceryApp\bin\Debug\net8.0\groceryApp.runtimeconfig.json
+C:\Users\Gamze\source\repos\groceryApp\groceryApp\bin\Debug\net8.0\groceryApp.dll
+C:\Users\Gamze\source\repos\groceryApp\groceryApp\bin\Debug\net8.0\groceryApp.pdb
+C:\Users\Gamze\source\repos\groceryApp\groceryApp\obj\Debug\net8.0\groceryApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gamze\source\repos\groceryApp\groceryApp\obj\Debug\net8.0\groceryApp.AssemblyInfoInputs.cache
+C:\Users\Gamze\source\repos\groceryApp\groceryApp\obj\Debug\net8.0\groceryApp.AssemblyInfo.cs
+C:\Users\Gamze\source\repos\groceryApp\groceryApp\obj\Debug\net8.0\groceryApp.csproj.CoreCompileInputs.cache
+C:\Users\Gamze\source\repos\groceryApp\groceryApp\obj\Debug\net8.0\groceryApp.sourcelink.json
+C:\Users\Gamze\source\repos\groceryApp\groceryApp\obj\Debug\net8.0\groceryApp.dll
+C:\Users\Gamze\source\repos\groceryApp\groceryApp\obj\Debug\net8.0\refint\groceryApp.dll
+C:\Users\Gamze\source\repos\groceryApp\groceryApp\obj\Debug\net8.0\groceryApp.pdb
+C:\Users\Gamze\source\repos\groceryApp\groceryApp\obj\Debug\net8.0\groceryApp.genruntimeconfig.cache
+C:\Users\Gamze\source\repos\groceryApp\groceryApp\obj\Debug\net8.0\ref\groceryApp.dll
